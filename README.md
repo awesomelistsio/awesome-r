@@ -18,7 +18,7 @@
 - [Learning Resources](#learning-resources)
 - [Books](#books)
 - [Communities](#communities)
-- [Contributing](#contributing)
+- [Contribute](#contribute)
 - [License](#license)
 
 ## Libraries
